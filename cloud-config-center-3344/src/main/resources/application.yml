@@ -12,10 +12,8 @@ spring:
           ####搜索目录
           search-paths:
             - springcloud-config
-          username: wqjavacoder
-          password: WWgit0706
       ####读取分支
-      label: main
+      label: master
 
 #服务注册到eureka地址
 eureka:
